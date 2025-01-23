@@ -1,4 +1,4 @@
-#LAB01https://github.com/Sanath34/ADM/blob/main/ADM_LAB1.ipynb
+#LAB01 https://github.com/Sanath34/ADM/blob/main/ADM_LAB1.ipynb
 
 #LAB02 https://github.com/Sanath34/ADM/blob/main/DMLAB02.ipynb
 
